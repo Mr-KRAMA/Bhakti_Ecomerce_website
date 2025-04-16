@@ -4,19 +4,19 @@ function Testimonials() {
       id: 1,
       name: 'Shivam',
       role: 'Medical Director, City Hospital',
-      content: 'Malvyn Pharmaceutical has been our trusted supplier for over 5 years. Their products consistently meet the highest quality standards, and their service is exceptional.'
+      content: 'Bhakti Pharmaceutical has been our trusted supplier for over 5 years. Their products consistently meet the highest quality standards, and their service is exceptional.'
     },
     {
       id: 2,
       name: 'Shashank',
       role: 'Pharmacist',
-      content: 'As a pharmacist, I appreciate the reliability and effectiveness of Malvyn\'s products. My customers have reported excellent results, and I\'m confident in recommending their range.'
+      content: 'As a pharmacist, I appreciate the reliability and effectiveness of Bhakti\'s products. My customers have reported excellent results, and I\'m confident in recommending their range.'
     },
     {
       id: 3,
       name: 'Sachin',
       role: 'Healthcare Consultant',
-      content: 'The quality control at Malvyn is impressive. Their commitment to maintaining international standards makes them stand out in the pharmaceutical industry.'
+      content: 'The quality control at Bhakti is impressive. Their commitment to maintaining international standards makes them stand out in the pharmaceutical industry.'
     }
   ]
   
